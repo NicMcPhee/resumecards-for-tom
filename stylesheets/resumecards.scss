@@ -375,6 +375,14 @@ script + p {
   text-align: center;
 }
 
+.new-play-exchange-logo {
+  font-family: 'Apercu Regular',helvetica,arial,sans-serif;
+  font-weight: bolder;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-width: 2px;
+}
+
 .resume-dropdown {
   display: inline-block;
   margin: 0 $space-xs 0 $space-sm;
